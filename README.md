@@ -9,14 +9,14 @@ The DGS & DGS2 are 3.3V modules and are not compatible with 5V power supply or 5
 The example sketch is tested with Arduino MKRZERO
 
 ## DGS & DGS2 pin# : Arduino pin
-1. : N/C
-2. : Serial1 Receive, RXD (3V3)
-3. : Serial1 Transmit, TXD (3V3)
-4. : N/C
-5. : N/C
-6. : GND
-7. : N/C
-8. : 3.3V
+* 1 : N/C
+* 2 : Serial1 Receive, RXD (3V3)
+* 3 : Serial1 Transmit, TXD (3V3)
+* 4 : N/C
+* 5 : N/C
+* 6 : GND
+* 7 : N/C
+* 8 : 3.3V
 
 
 ## Commands for DGS2:
