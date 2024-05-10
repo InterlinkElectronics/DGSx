@@ -1,5 +1,5 @@
 # DGS & DGS2 Gas Sensor Module
-## SPEC Sensors is a division of Interlink Electronics
+by SPEC Sensors, a division of Interlink Electronics
 
 ## Description
 This sketch reads data from a SPEC Sensors DGS or DGS2 gas sensor module and communicates the data to a computer through an Arduino device.
