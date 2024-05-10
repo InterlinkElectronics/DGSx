@@ -20,6 +20,8 @@ The example sketch is tested with Arduino MKRZERO
 
 
 ## Commands for DGS2:
+See the [DGS2 Datasheet](https://www.spec-sensors.com/product/dgs2/) for more details
+
 * \r [return] to perform single reading
 * B to set barcode
 * M to set module barcode
@@ -40,6 +42,8 @@ The example sketch is tested with Arduino MKRZERO
 * r to reset module
 
 ## Commands for DGS (25JAN22 or newer):
+See the [DGS SDK Datasheet](https://www.spec-sensors.com/wp-content/uploads/2017/01/DG-SDK-968-045_9-6-17.pdf) for more details
+
 * \r [return] to perform single reading
 * B to set barcode
 * L to set potentiostat settings
